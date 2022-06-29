@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tp3-react/static/css/main.391ca0fa.css",
+    "main.js": "/tp3-react/static/js/main.f2b06fb8.js",
+    "index.html": "/tp3-react/index.html",
+    "main.391ca0fa.css.map": "/tp3-react/static/css/main.391ca0fa.css.map",
+    "main.f2b06fb8.js.map": "/tp3-react/static/js/main.f2b06fb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391ca0fa.css",
+    "static/js/main.f2b06fb8.js"
+  ]
+}
