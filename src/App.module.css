@@ -1,0 +1,9 @@
+/* https://create-react-app.dev/docs/adding-a-css-modules-stylesheet */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow */
+.title {
+  text-align: center;
+  font-size: 3rem;
+  /* text-shadow: 3px 3px 9px magenta; */
+  text-shadow: 1px 1px 9px red, 0 0 1em magenta, 0 0 0.5em magenta;
+  background: rgb(8, 8, 8);
+}
