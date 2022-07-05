@@ -15,6 +15,9 @@ export function MyNavBarComponent() {
           <li>
             <Link to="contactUs">contact Us</Link>
           </li>
+          <li>
+            <Link to="/moviesx">moviesx</Link>
+          </li>
         </ul>
       </nav>
     </div>
