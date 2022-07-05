@@ -22,7 +22,7 @@ export function App() {
       <main>
         <Routes>
           <Route path="/" element={<LandingPage />} />
-          <Route path="/movies" element={<LandingPage />} />
+          <Route path="/moviesx" element={<LandingPage />} />
           <Route path="/tp4-react" element={<LandingPage />} />
           <Route path="/aboutUs" element={<AboutUs />} />
           <Route path="/contactUs" element={<h4>contactUs</h4>} />
