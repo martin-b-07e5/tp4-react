@@ -1,3 +1,8 @@
+/* este css es globales, se incluye en toda la aplicación.
+  Todos los componentes acceden a este css.
+  Las cosas que se modifican acá. Se modifican para todos los componentes.
+  Si queremos que cada componente sea independiente » creamos componentName.module.css
+  */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
@@ -13,4 +18,10 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+/* enlaces. De forma global modificamos */
+a {
+  text-decoration: none;
+  color: white;
 }
